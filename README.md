@@ -1,8 +1,9 @@
 # MLC-LLM Android
 
-本项目是一个通过 [mlc-llm](https://github.com/mlc-ai/mlc-llm) 编译过的可以直接运行的android app.
+本项目是一个通过 [mlc-llm](https://github.com/mlc-ai/mlc-llm) 编译过的可以直接运行的android app,
+具有运行本地部署的大模型进行对话的能力。
 
-# clone
+# 下载项目
 
 ```bash
 git lfs install
