@@ -1,0 +1,10 @@
+{
+  "model_list": [
+    {
+      "model_id": "gemma-2-2b-it-q4f16_1-MLC",
+      "model_lib": "gemma2_q4f16_1_5cc7dbd3ae3d1040984d9720b2d7b7d4",
+      "model_url": "/home/qqyang/gemma-2-2b-it-q4f16_1-MLC",
+      "estimated_vram_bytes": 3980990464
+    }
+  ]
+}

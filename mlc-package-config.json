@@ -1,0 +1,11 @@
+{
+    "device": "android",
+    "model_list": [
+        {
+            "model": "/home/qqyang/gemma-2-2b-it-q4f16_1-MLC",
+            "estimated_vram_bytes": 3980990464,
+            "model_id": "gemma-2-2b-it-q4f16_1-MLC",
+            "bundle_weight": true
+        }
+    ]
+}
