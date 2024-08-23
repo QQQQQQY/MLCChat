@@ -41,4 +41,4 @@ git clone https://github.com/QQQQQQY/MLCChat.git
     4. 复制你下载的大模型到手机中的 `/Android/data/ai.mlc.mlcchat/files` 目录下。
     5. 重新打开 app, 这个时候我们就能看到新添加的模型了。
 
-附: [mlc-chat](./images/mlc-chat.png)
+附: ![mlc-chat](./images/mlc-chat.png)
